@@ -1,0 +1,49 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "head",
+            "purpose": "tagging",
+            "creator": {
+                "id": "highness77",
+                "name": "highness77"
+            },
+            "created": "2025-03-23T03:24:29.169Z",
+            "modified": "2025-03-23T03:24:29.635Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "big",
+            "purpose": "commenting",
+            "creator": {
+                "id": "highness77",
+                "name": "highness77"
+            },
+            "created": "2025-03-23T03:24:32.123Z",
+            "modified": "2025-03-23T03:24:32.376Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3632.82275390625,1334.9954833984375,13970.68701171875,15008.072875976562"
+        }
+    },
+    "id": "f102b985-f430-42a5-9eef-5685728b9097.json",
+    "motivation": "commenting"
+}
