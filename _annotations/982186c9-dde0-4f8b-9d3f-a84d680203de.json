@@ -1,0 +1,53 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "eye",
+            "purpose": "tagging",
+            "creator": {
+                "id": "highness77",
+                "name": "highness77"
+            },
+            "created": "2025-03-23T03:27:00.540Z",
+            "modified": "2025-03-23T03:27:01.468Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16,
+                    48
+                ]
+            },
+            "creator": {
+                "id": "highness77",
+                "name": "highness77"
+            },
+            "created": "2025-03-23T03:27:02.646Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"7153.128173828125\" cy=\"8579.6865234375\" rx=\"833.310791015625\" ry=\"901.3349609375\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "982186c9-dde0-4f8b-9d3f-a84d680203de.json",
+    "motivation": "commenting"
+}
